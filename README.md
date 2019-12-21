@@ -12,6 +12,7 @@ Resources for SANS CTI Summit 2020 presentation "Stop Tilting at Windmills: Thre
 <li><a href="https://isc.sans.edu/forums/diary/Defining+Threat+Intelligence+Requirements/21519/" target="_blank" rel="noopener">SANS (Pasquale Stirparo) - Defining Threat Intelligence Requirements</a></li>
 <li><a href="https://www.first.org/events/symposium/london2019/program#pYour-Requirements-are-not-my-Requirements" target="_blank" rel="noopener">FIRST CTI 2019 (Pasquale Stirparo) - Your Requirements are not my Requirements</a></li>
 <li><a href="https://www.youtube.com/watch?v=3bXr-CF9NBI" target="_blank" rel="noopener">SANS CTI Summit 2018 - Intelligence Preparation of the Cyber Environment – Rob Dartnall</a></li>
+<li><a href="https://threatintel.eu/2019/09/24/intelligence-requirements-and-don-quixote/" target="_blank" rel="noopener">ThreatIntel.eu - Intelligence Requirements: the Sancho Panza of CTI</a></li> 
 <li><a href="https://www.youtube.com/watch?v=XEmksbsrnv8" target="_blank" rel="noopener">CTI Summit 2017 - Christian Paredes - Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence</a></li>
 <li><a href="https://fas.org/irp/dni/icd/icd-203.pdf" target="_blank" rel="noopener">Intelligence Community Directive (ICD) 203 - Analytic Standards</a></li>
 <li><a href="https://www.recordedfuture.com/cyber-threat-intelligence-team/" target="_blank" rel="noopener">Recorded Future - How to Build a Cyber Threat Intelligence Team (and Why Technology Isn’t Enough)</a></li>

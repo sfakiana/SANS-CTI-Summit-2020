@@ -5,6 +5,7 @@ Resources for SANS CTI Summit 2020 presentation "Stop Tilting at Windmills: Thre
 <li><a href="https://www.youtube.com/watch?v=1h7rLHNXio8" target="_blank" rel="noopener">CTI Summit 2017 Keynote - Cliff Stoll - (Still) Stalking the Wily Hacker</a></li>
 <li><a href="https://www.eclecticiq.com/resources/white-paper-building-cyber-threat-intelligence-practice?submissionGuid=6735f84f-06b8-4cb8-83f5-582baa59ad4a#download" target="_blank" rel="noopener">EclecticIQ - A Stakeholder-centric Approach to Building a Cyber Threat Intelligence (CTI) Practice</a></li>
 <li><a href="https://www.sans.org/reading-room/whitepapers/analyst/evolution-cyber-threat-intelligence-cti-2019-cti-survey-38790" target="_blank" rel="noopener"> SANS - 2019 CTI Survey</a></li>
+<li><a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=546686" target="_blank" rel="noopener">SEI Carnegie Mellon University - Cyber Intelligence Tradecraft Report</a></li>
 <li><a href="http://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp2_0.pdf" target="_blank" rel="noopener">US Military Joint Publication 2-0</a></li>
 <li><a href="https://www.youtube.com/watch?v=Aqo3IcVQs_M" target="_blank" rel="noopener">SANS CTI Summit 2018 - Michael Rea - I Can Haz Requirements?: Requirements and CTI Program Success</a></li>
 <li><a href="https://medium.com/@sroberts/cti-squadgoals-setting-requirements-41bcb63db918" target="_blank" rel="noopener">Scott J. Roberts - CTI SquadGoals — Setting Requirements</a></li>
